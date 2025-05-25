@@ -23,7 +23,6 @@
  *   - Account notifications
  *   - Account security
  *   - Account activity
- * 
  * ## Usage
  * - Each test navigates to the login page, performs actions simulating user input, and asserts the expected UI state or error messages.
  * - Tests are designed to ensure both functional correctness and security robustness of the login process.
