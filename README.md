@@ -1,7 +1,8 @@
 
 
- # 🎭Demo Bank login smoke test - playwright
-[![repo_lang](https://skillicons.dev/icons?i=typescript,)](#)
+ # Demo Bank login smoke test - playwright
+[![repo_lang](https://skillicons.dev/icons?i=typescript,)](#)![image](https://github.com/user-attachments/assets/b8e4a4b1-9e91-4ed4-82e7-ccbbaba0e5d7)
+
  *  Automated smoke tests for the Demo Bank login functionality using Playwright.
  * ## Features Tested
  * - Successful login with valid credentials.
