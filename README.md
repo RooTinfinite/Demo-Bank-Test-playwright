@@ -35,4 +35,3 @@
  * - Positive and negative login scenarios.
  * - Security-related edge cases.
  * - Verification of key user dashboard features after successful login.
- */
