@@ -2,7 +2,6 @@
 
  ## Demo Bank login smoke test - playwright 
  *  Automated smoke tests for the Demo Bank login functionality using Playwright.
- * 
  * ## Features Tested
  * - Successful login with valid credentials.
  * - Login attempts with incorrect, empty, or partially filled credentials.
