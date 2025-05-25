@@ -26,7 +26,6 @@
  * ## Usage
  * - Each test navigates to the login page, performs actions simulating user input, and asserts the expected UI state or error messages.
  * - Tests are designed to ensure both functional correctness and security robustness of the login process.
- * 
  * ## Technologies
  * - [Playwright](https://playwright.dev/) for browser automation and assertions.
 * - nodejs 22v22.16.0
