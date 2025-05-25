@@ -1,7 +1,7 @@
 
 
  ## Demo Bank login smoke test - playwright 
- * This project contains a comprehensive suite of end-to-end tests for the login functionality of the Demo Bank web application using Playwright.
+ *  Automated smoke tests for the Demo Bank login functionality using Playwright.
  * 
  * ## Features Tested
  * - Successful login with valid credentials.
